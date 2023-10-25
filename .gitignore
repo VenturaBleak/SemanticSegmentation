@@ -1,0 +1,19 @@
+# ignore data directory
+data/
+```
+
+# ignores scripts directory
+scripts/
+```
+
+# ignore share directory
+share/
+```
+
+# ignore lib directory
+lib/
+```
+
+# ignore pyvenv.cfg file
+pyvenv.cfg
+```
